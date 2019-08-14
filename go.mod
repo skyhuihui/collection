@@ -1,4 +1,4 @@
-module collection
+module github.com/skyhuihui/collection
 
 go 1.12
 
